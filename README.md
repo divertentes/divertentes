@@ -10,8 +10,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&duration=4000&size=35&center=true&vCenter=true&width=1000&lines=welcome;to+my+profile!)
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=divertentes&show_icons=true&hide_border=true&theme=panda&bg_color=00000000" alt="GitHub stats" style="height: 193px; width: 450px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divertentes&layout=compact&hide_border=true&theme=panda&bg_color=00000000" alt="GitHub top languages" style="height: 190px; width: 380px;"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=divertentes&show_icons=true&hide_border=true&theme=panda&bg_color=00000000" alt="GitHub stats" style="height: 193px; width: 450px;"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=divertentes&layout=compact&hide_border=true&theme=panda&bg_color=00000000" alt="GitHub top languages" style="height: 190px; width: 380px;"/>
 </p>
 <hr width="100%" />
 
